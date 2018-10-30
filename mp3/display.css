@@ -1,0 +1,21 @@
+.header {
+	padding: 50px;
+    text-align: center;
+    background: aqua;
+    color: teal;
+}
+
+.body {
+	padding: 100px;
+}
+
+.footer {
+	padding: 10px;
+	background: aqua;
+}
+
+.img {
+	width: 70px;
+	height: 70px;
+
+}
